@@ -1,5 +1,6 @@
 body {
     background-image: url(https://cdn.pixabay.com/photo/2018/08/03/04/36/couple-3581038_1280.jpg);
+     background-repeat: no-repeat;
 }
 
 .cart {
